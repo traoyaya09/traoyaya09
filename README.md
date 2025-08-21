@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/traoyaya09/Readme.md/blob/main/yaya.png?raw=true" alt="Yaya Traore Banner" width="900"/>
+</p>
+
 # 👋 Hi, I'm Yaya Traore (traoyaya09)
 
 🎯 **AI-Powered E-commerce** | 🎨 **Full-Stack Developer** | 📊 **Data Science Enthusiast**
@@ -6,7 +10,7 @@
 
 ## 🚀 About Me  
 I'm an **AI engineer** and **full-stack developer** passionate about building **intelligent, user-centric e-commerce systems**.  
-My focus is on **integrating advanced ML models into real-world platforms**, blending **data science, machine learning, and scalable web development**.  
+I specialize in **integrating advanced ML models into real-world platforms**, blending **data science, machine learning, and scalable web development**.  
 
 ---
 
