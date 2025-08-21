@@ -97,13 +97,26 @@ Advanced hybrid recommender with:
 
 ## 📫 Let’s Connect!  
 
-📩 **Email**: [traoyaya09@gmail.com](mailto:traoyaya09@gmail.com)  
+📩 **Email:** [traoyaya09@gmail.com](mailto:traoyaya09@gmail.com)  
 
-🌐 **Socials**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/traore-yaya-417900314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=PAQ0xDSwLjU-VleHRuA2FlbQIxMQABp7tqWZdLD9TbnJQNHBwcCvKn00UWNtIzEfz_-KshC1CyA_Zq4Fl4kGrASOiM_aem_26vEJk8hDR231rWbadaaMg)  
-[![Instagram 1](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/young_lambert_official?igsh=eXY4ZzY4dWp3dmF2)  
-[![Instagram 2](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/futurist_official?igsh=MTczM3M4ZXQ4cXlpdA==)  
-[![Instagram 3](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/young_lambert_web?igsh=MTd0YjFzanBxcTR4YQ==)
+🌐 **Follow Me on Social Media:**  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/traore-yaya-417900314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=PAQ0xDSwLjU-VleHRuA2FlbQIxMQABp7tqWZdLD9TbnJQNHBwcCvKn00UWNtIzEfz_-KshC1CyA_Zq4Fl4kGrASOiM_aem_26vEJk8hDR231rWbadaaMg" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/young_lambert_official?igsh=eXY4ZzY4dWp3dmF2" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge 1"/>
+  </a>
+  <a href="https://www.instagram.com/futurist_official?igsh=MTczM3M4ZXQ4cXlpdA==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge 2"/>
+  </a>
+  <a href="https://www.instagram.com/young_lambert_web?igsh=MTd0YjFzanBxcTR4YQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge 3"/>
+  </a>
+</p>
+
+✨ **Let's connect and collaborate!**
 
 ---
 
