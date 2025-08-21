@@ -103,20 +103,28 @@ Advanced hybrid recommender with:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/traore-yaya-417900314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=PAQ0xDSwLjU-VleHRuA2FlbQIxMQABp7tqWZdLD9TbnJQNHBwcCvKn00UWNtIzEfz_-KshC1CyA_Zq4Fl4kGrASOiM_aem_26vEJk8hDR231rWbadaaMg" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://media.licdn.com/dms/image/D4D03AQFQ9y1I2I9G_g/profile-displayphoto-shrink_100_100/0/1681234567890?e=1690416000&v=beta&t=XYZ" width="50" height="50" style="border-radius:50%" alt="LinkedIn"/>
+    <br>Yaya Traore (LinkedIn)
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/young_lambert_official?igsh=eXY4ZzY4dWp3dmF2" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge 1"/>
+    <img src="https://instagram.fxyz1-1.fna.fbcdn.net/v/t51.2885-19/123456789_123456789_123456789_123456789_n.jpg?tp=1&_nc_ht=instagram.fxyz1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=ABC123XYZ&edm=ABCD1234&ccb=1-7&oh=12345&oe=67890" width="50" height="50" style="border-radius:50%" alt="Instagram"/>
+    <br>Young Lambert Official
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/futurist_official?igsh=MTczM3M4ZXQ4cXlpdA==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge 2"/>
+    <img src="https://instagram.fxyz1-1.fna.fbcdn.net/v/t51.2885-19/987654321_987654321_987654321_987654321_n.jpg?tp=1&_nc_ht=instagram.fxyz1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=XYZ123ABC&edm=ABCD1234&ccb=1-7&oh=54321&oe=67890" width="50" height="50" style="border-radius:50%" alt="Instagram"/>
+    <br>Futurist Official
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/young_lambert_web?igsh=MTd0YjFzanBxcTR4YQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge 3"/>
+    <img src="https://instagram.fxyz1-1.fna.fbcdn.net/v/t51.2885-19/112233445_112233445_112233445_112233445_n.jpg?tp=1&_nc_ht=instagram.fxyz1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=LMN123OPQ&edm=ABCD1234&ccb=1-7&oh=67890&oe=12345" width="50" height="50" style="border-radius:50%" alt="Instagram"/>
+    <br>Young Lambert Web
   </a>
 </p>
 
 ✨ **Let's connect and collaborate!**
+
 
 ---
 
