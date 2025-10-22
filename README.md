@@ -10,7 +10,7 @@
 
 ## 🚀 About Me  
 I'm an **AI engineer** and **full-stack developer** passionate about building **intelligent, user-centric e-commerce systems**.  
-I specialize in **integrating advanced ML models into real-world platforms**, blending **data science, machine learning, and scalable web development**.
+I specialize in **integrating advanced ML models into production platforms**, blending **data science, machine learning, and scalable web development**.
 
 ---
 
@@ -24,32 +24,36 @@ I specialize in **integrating advanced ML models into real-world platforms**, bl
 
 ---
 
-## 💻 Key Projects  
+<details>
+<summary>💻 Key Projects</summary>
 
-### 🛒 **FUTURIST E-Commerce Platform**  
+### 🛒 [FUTURIST E-Commerce Platform](#)
 AI-powered platform with **recommendations, fraud detection, and analytics**.
 - **Frontend**: React, Redux, Tailwind
 - **Backend**: Node.js, Express, MongoDB
 - **AI/ML**: Scikit-learn, LightGBM, XGBoost, TensorFlow/Keras
 - **Features**: Smart search, product tagging, clustering, satisfaction prediction
 
-### 🧠 **Personalized Recommender System**  
+### 🧠 [Personalized Recommender System](#)
 Advanced hybrid recommender with:
 - Collaborative Filtering
 - TF-IDF + Content-Based Filtering
 - Neural Collaborative Filtering (NCF)
 - Supervised Satisfaction Classifier
 
-### 🔍 **Fraud Detection System**  
+### 🔍 [Fraud Detection System](#)
 - **Supervised**: Logistic Regression, Random Forest, XGBoost, StackingClassifier
 - **Unsupervised**: Isolation Forest
 - **Resampling**: SMOTE, ADASYN
 - **Optimization**: Random Search + Bayesian Optimization
 - **Evaluation**: ROC-AUC, Precision-Recall, Plotly Visuals
 
+</details>
+
 ---
 
-## 🛠️ Tech Stack & Tools  
+<details>
+<summary>🛠️ Tech Stack & Tools</summary>
 
 ### 🚀 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,18 +63,26 @@ Advanced hybrid recommender with:
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-6e5494?style=for-the-badge)
 
 ### 📊 Data Science & ML
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-9B59B6?style=for-the-badge&logo=nltk&logoColor=white)
+![SpaCy](https://img.shields.io/badge/SpaCy-FF6600?style=for-the-badge&logo=spacy&logoColor=white)
 
 ### 🛠️ Other Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+</details>
 
 ---
 
@@ -89,15 +101,16 @@ Advanced hybrid recommender with:
 ---
 
 ## 📚 Current Focus  
-- 📖 **Thesis**: AI Implementation in E-commerce Systems
+- 📖 **Thesis**: Implementing AI solutions in E-commerce Systems
 - 🤖 Deep learning for recommendations & fraud detection
-- 🌍 Real-world deployment of ML models in full-stack platforms
+- 🌍 Deploying ML models in production full-stack platforms
 
 ---
 
 ## 📫 Let’s Connect!  
 
 📩 **Email:** [traoyaya09@gmail.com](mailto:traoyaya09@gmail.com)  
+
 
 🌐 **Follow Me on Social Media:**  
 
