@@ -4,96 +4,93 @@
 
 # 👋 Hi, I'm Yaya Traore (traoyaya09)
 
-🎯 **AI-Powered E-Commerce Engineer** | 🎨 **Full-Stack Developer** | 📊 **Data Science & ML Enthusiast**
+🎯 **AI-Powered E-commerce** | 🎨 **Full-Stack Developer** | 📊 **Data Science Enthusiast**
 
 ---
 
 ## 🚀 About Me  
-I'm an **AI engineer and full-stack developer** building **intelligent, scalable e-commerce systems**.  
-I integrate **production-ready ML models**, **real-time personalization**, **fraud detection**, and **analytics dashboards**, bridging **research and deployable applications**.
+I'm an **AI engineer** and **full-stack developer** passionate about building **intelligent, user-centric e-commerce systems**.  
+I specialize in **integrating advanced ML models into production platforms**, blending **data science, machine learning, and scalable web development**.
 
 ---
 
-## 🧠 Expertise & Impact
-
-| Domain | Skills & Tools | Production Impact |
-|--------|----------------|-----------------|
-| **Recommender Systems** | Collaborative, Content-Based, Hybrid, NCF | CTR ↑ 12% during A/B tests |
-| **Customer Segmentation** | GMM, PCA, KMeans, RFM | Targeting accuracy ↑ 18% |
-| **Fraud Detection** | XGBoost, Isolation Forest, Stacking | Fraudulent transactions ↓ 25% |
-| **Sentiment Analysis** | VADER, TextBlob, LightGBM, Logistic Regression | Accuracy 87% on live reviews |
-| **Full-Stack Web** | React, Redux, Node.js, Express, MongoDB | 10k concurrent users supported |
-| **Visualization & Dashboards** | Plotly Dash, Seaborn, Matplotlib | Real-time AI insights for admins |
+## 🧠 What I Build
+- 🛒 **Personalized Product Recommendation Systems** (Collaborative, Content-Based, Hybrid, NCF)
+- 📊 **AI-Powered Customer Segmentation** (GMM, PCA, KMeans, RFM)
+- 🔐 **Fraud Detection Systems** (Supervised + Unsupervised: XGBoost, Isolation Forest, Stacking)
+- 💬 **Multi-Model Sentiment Analysis** (VADER, TextBlob, LightGBM, Logistic Regression)
+- ⚙️ **Full-Stack Web Applications** (React, Redux, Node.js, Express, MongoDB)
+- 📈 **Dashboards & Data Visualization** (Plotly, Dash, Seaborn, Matplotlib)
 
 ---
 
-## 💻 Key Projects
+<details>
+<summary>💻 Key Projects</summary>
 
-### 🛒 [Futurist E-Commerce Platform](https://github.com/traoyaya09/futurist-platform)
-AI-powered platform for **recommendations, fraud detection, and analytics dashboards**.  
+### 🛒 [FUTURIST E-Commerce Platform](#)
+AI-powered platform with **recommendations, fraud detection, and analytics**.
+- **Frontend**: React, Redux, Tailwind
+- **Backend**: Node.js, Express, MongoDB
+- **AI/ML**: Scikit-learn, LightGBM, XGBoost, TensorFlow/Keras
+- **Features**: Smart search, product tagging, clustering, satisfaction prediction
 
-**Tech Stack:** React, Redux, Tailwind, Node.js, Express, MongoDB, Docker, GitHub Actions  
-**AI/ML:** NCF, GMM, XGBoost, LightGBM, BERT, TF-IDF  
+### 🧠 [Personalized Recommender System](#)
+Advanced hybrid recommender with:
+- Collaborative Filtering
+- TF-IDF + Content-Based Filtering
+- Neural Collaborative Filtering (NCF)
+- Supervised Satisfaction Classifier
 
-**Impact Metrics:**  
-- 10k concurrent users supported  
-- Personalized recommendations **85% accuracy**  
-- Fraud detection reduced chargebacks by **25%**
+### 🔍 [Fraud Detection System](#)
+- **Supervised**: Logistic Regression, Random Forest, XGBoost, StackingClassifier
+- **Unsupervised**: Isolation Forest
+- **Resampling**: SMOTE, ADASYN
+- **Optimization**: Random Search + Bayesian Optimization
+- **Evaluation**: ROC-AUC, Precision-Recall, Plotly Visuals
 
-**Live Dashboard / Figures:**  
-![Futurist Dashboard](https://via.placeholder.com/700x350.png?text=Interactive+Dashboard+Placeholder)  
-[View Live Metrics](https://your-live-dashboard-link.com)
-
----
-
-### 🧠 [Hybrid Recommender System](https://github.com/traoyaya09/hybrid-recommender)
-Advanced hybrid recommender combining:  
-- Collaborative Filtering  
-- TF-IDF + Content-Based Filtering  
-- Neural Collaborative Filtering (NCF)  
-
-**Impact Metrics:**  
-- CTR improved by **12%**  
-- Personalization score ↑ 15%  
-
-**Visuals & Interactive Charts:**  
-![Recommender Metrics](https://via.placeholder.com/700x350.png?text=Recommender+Metrics+Placeholder)  
-[Live Recommendation Metrics](https://your-live-recommender-link.com)
+</details>
 
 ---
 
-### 🔍 [Fraud Detection System](https://github.com/traoyaya09/fraud-detection)
-Multi-model fraud detection for e-commerce:  
+<details>
+<summary>🛠️ Tech Stack & Tools</summary>
 
-- **Supervised:** XGBoost, Random Forest, StackingClassifier  
-- **Unsupervised:** Isolation Forest  
-- **Resampling & Optimization:** SMOTE, ADASYN, Bayesian Opt  
-- **Evaluation:** ROC-AUC, Precision-Recall, Confusion Matrices  
+### 🚀 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-6e5494?style=for-the-badge)
 
-**Impact Metrics:**  
-- Fraudulent transactions ↓ 25%  
-- ROC-AUC **92%**  
+### 📊 Data Science & ML
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-9B59B6?style=for-the-badge&logo=nltk&logoColor=white)
+![SpaCy](https://img.shields.io/badge/SpaCy-FF6600?style=for-the-badge&logo=spacy&logoColor=white)
 
-**Visuals / Dashboards:**  
-![Fraud Detection Metrics](https://via.placeholder.com/700x350.png?text=Fraud+Detection+Metrics+Placeholder)  
-[View Interactive Dashboard](https://your-live-fraud-dashboard.com)
+### 🛠️ Other Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
----
-
-## 🛠️ Tech Stack & Tools
-
-**Frontend:** React, Redux, Tailwind, Vite  
-**Backend:** Node.js, Express, MongoDB, Docker, GitHub Actions, CI/CD  
-**Data & ML:** Python, Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, Plotly Dash, NLTK, SpaCy  
-**Monitoring & Observability:** Prometheus, Grafana, OpenTelemetry  
-**Deployment & Scalability:** Kubernetes, HPA, Redis caching, Load balancing, Database sharding  
+</details>
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Yaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=traoyaya09&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=traoyaya09&layout=compact&theme=radical)  
+![Yaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=traoyaya09&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traoyaya09&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=traoyaya09&theme=radical)
 
 ---
 
@@ -104,19 +101,44 @@ Multi-model fraud detection for e-commerce:
 ---
 
 ## 📚 Current Focus  
-- 📖 **Thesis:** Implementing AI solutions in e-commerce systems  
-- 🤖 Deep learning for recommendations & fraud detection  
-- 🌍 Deploying ML models in production full-stack platforms  
+- 📖 **Thesis**: Implementing AI solutions in E-commerce Systems
+- 🤖 Deep learning for recommendations & fraud detection
+- 🌍 Deploying ML models in production full-stack platforms
 
 ---
 
-## 📫 Connect With Me  
+## 📫 Let’s Connect!  
 
 📩 **Email:** [traoyaya09@gmail.com](mailto:traoyaya09@gmail.com)  
-🌐 **LinkedIn:** [Yaya Traore](https://www.linkedin.com/in/traore-yaya-417900314/)  
-🌐 **Instagram:** [Young Lambert Official](https://www.instagram.com/young_lambert_official/)  
-🌐 **Instagram (Futurist Platform):** [Futurist Official](https://www.instagram.com/futurist_official/)  
+
+
+🌐 **Follow Me on Social Media:**  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/traore-yaya-417900314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=PAQ0xDSwLjU-VleHRuA2FlbQIxMQABp7tqWZdLD9TbnJQNHBwcCvKn00UWNtIzEfz_-KshC1CyA_Zq4Fl4kGrASOiM_aem_26vEJk8hDR231rWbadaaMg" target="_blank">
+    <img src="https://media.licdn.com/dms/image/D4D03AQFQ9y1I2I9G_g/profile-displayphoto-shrink_100_100/0/1681234567890?e=1690416000&v=beta&t=XYZ" width="50" height="50" style="border-radius:50%" alt="LinkedIn"/>
+    <br>Yaya Traore (LinkedIn)
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/young_lambert_official?igsh=eXY4ZzY4dWp3dmF2" target="_blank">
+    <img src="https://instagram.fxyz1-1.fna.fbcdn.net/v/t51.2885-19/123456789_123456789_123456789_123456789_n.jpg?tp=1&_nc_ht=instagram.fxyz1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=ABC123XYZ&edm=ABCD1234&ccb=1-7&oh=12345&oe=67890" width="50" height="50" style="border-radius:50%" alt="Instagram"/>
+    <br>Young Lambert Official
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/futurist_official?igsh=MTczM3M4ZXQ4cXlpdA==" target="_blank">
+    <img src="https://instagram.fxyz1-1.fna.fbcdn.net/v/t51.2885-19/987654321_987654321_987654321_987654321_n.jpg?tp=1&_nc_ht=instagram.fxyz1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=XYZ123ABC&edm=ABCD1234&ccb=1-7&oh=54321&oe=67890" width="50" height="50" style="border-radius:50%" alt="Instagram"/>
+    <br>Futurist Official
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/young_lambert_web?igsh=MTd0YjFzanBxcTR4YQ==" target="_blank">
+    <img src="https://instagram.fxyz1-1.fna.fbcdn.net/v/t51.2885-19/112233445_112233445_112233445_112233445_n.jpg?tp=1&_nc_ht=instagram.fxyz1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=LMN123OPQ&edm=ABCD1234&ccb=1-7&oh=67890&oe=12345" width="50" height="50" style="border-radius:50%" alt="Instagram"/>
+    <br>Young Lambert Web
+  </a>
+</p>
+
+✨ **Let's connect and collaborate!**
+
 
 ---
 
-✨ *I build intelligent systems that understand users, prevent risk, and scale smart.*
+✨ *I don’t just build apps. I build intelligent systems that understand users, prevent risk, and scale smart.*
